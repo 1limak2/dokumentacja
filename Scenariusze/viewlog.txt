@@ -1,0 +1,17 @@
+2022/08/02 21:46:59 - Test Created
+2022/08/02 21:47:01 - Starting test
+2022/08/02 21:47:30 - Extracting 383501 byte uploaded file '/tmp/phpaSWiTT' to './results/22/08/02/AiDcBQ/FGK'
+2022/08/02 21:47:30 - Test Run Complete. Run: 1, Cached: 0, Done: 1, Tester: wpt_euc1_instance-10.10.1.29-35.157.11.11
+2022/08/02 21:47:30 - 1 of 3 tests complete
+2022/08/02 21:47:30 - Done Processing. Run: 1, Cached: 0, Done: 1, Tester: wpt_euc1_instance-10.10.1.29-35.157.11.11
+2022/08/02 21:47:31 - Extracting 382480 byte uploaded file '/tmp/phpyhp3hM' to './results/22/08/02/AiDcBQ/FGK'
+2022/08/02 21:47:31 - Test Run Complete. Run: 3, Cached: 0, Done: 1, Tester: wpt_euc1_instance-10.10.1.37-35.157.11.11
+2022/08/02 21:47:31 - 2 of 3 tests complete
+2022/08/02 21:47:31 - Done Processing. Run: 3, Cached: 0, Done: 1, Tester: wpt_euc1_instance-10.10.1.37-35.157.11.11
+2022/08/02 21:47:32 - Extracting 377675 byte uploaded file '/tmp/phpjK58VB' to './results/22/08/02/AiDcBQ/FGK'
+2022/08/02 21:47:32 - Test Run Complete. Run: 2, Cached: 0, Done: 1, Tester: wpt_euc1_instance-10.10.1.113-35.157.11.11
+2022/08/02 21:47:32 - 3 of 3 tests complete
+2022/08/02 21:47:32 - All done
+2022/08/02 21:47:32 - Done Processing. Run: 2, Cached: 0, Done: 1, Tester: wpt_euc1_instance-10.10.1.113-35.157.11.11
+2022/08/02 21:47:32 - Test Complete
+2022/08/02 21:47:32 - Test post-processing complete
